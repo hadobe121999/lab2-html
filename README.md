@@ -1,0 +1,1 @@
+This lab focuses on creating a well-structured webpage using HTML5 and implementing form validation. The goal is to help students build a basic, semantic HTML5 page that includes navigation, content, and a contact form with HTML5 built-in validation features.
